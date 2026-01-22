@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d95c3ad-3383-4651-8553-987905cb2e4d" name="Changes" comment="Update commit">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Basics/Day_1_Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Basics/src/AlphabetDigitSpecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/AlphabetDigitSpecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Basics/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Basics/src/CountAphabetsDigitSpecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/CountAphabetsDigitSpecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Basics/src/ElectricityBill.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/ElectricityBill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Basics/src/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/EvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Basics/src/GradeSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/GradeSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Basics/src/LargestAmong3No.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/LargestAmong3No.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Basics/src/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1_Basics/src/Swapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Swapping.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="38YaBsE30JMxIQKnqMxtNYC7eP2" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AlphabetDigitSpecial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListBasics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharFrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Child.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstructorThis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountAphabetsDigitSpecial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountVCDS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ElectricityBill.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrequencyCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GcdLcmHcf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GradeSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kadane.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestAmong3No.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListComparison.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSortedArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Puppy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversePalindromCheckOfNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotatedSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SBI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortColors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortObjects.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumCountOfDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swapping.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Rushi vardhan reddy/IdeaProjects/Java_Technical_Training/Day_1_Basics/Tree_Traversal/src/Main.java&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d95c3ad-3383-4651-8553-987905cb2e4d" name="Changes" comment="" />
+      <created>1768978830551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768978830551</updated>
+      <workItem from="1768978831682" duration="1551000" />
+      <workItem from="1769005747950" duration="48000" />
+      <workItem from="1769006047695" duration="1839000" />
+      <workItem from="1769011493118" duration="14744000" />
+      <workItem from="1769054621578" duration="5209000" />
+      <workItem from="1769069482289" duration="481000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update commit">
+      <option name="closed" value="true" />
+      <created>1769058527777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769058527777</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update commit">
+      <option name="closed" value="true" />
+      <created>1769058565656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769058565656</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java/Day_2_Loops/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java/Introduction/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java/Tree_Traversal/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
