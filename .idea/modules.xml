@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Day_2_Loops/Day_2_Loops.iml" filepath="$PROJECT_DIR$/Day_2_Loops/Day_2_Loops.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day_3_OOPS/Day_3_OOPS.iml" filepath="$PROJECT_DIR$/Day_3_OOPS/Day_3_OOPS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day_4_Arrays_Strings/Day_4_Arrays_Strings.iml" filepath="$PROJECT_DIR$/Day_4_Arrays_Strings/Day_4_Arrays_Strings.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day_5_6_Sorting/Day_5_6_Sorting.iml" filepath="$PROJECT_DIR$/Day_5_6_Sorting/Day_5_6_Sorting.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day_7_Collections/Day_7_Collections.iml" filepath="$PROJECT_DIR$/Day_7_Collections/Day_7_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays_Strings/Arrays_Strings.iml" filepath="$PROJECT_DIR$/Arrays_Strings/Arrays_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Technical_Training.iml" filepath="$PROJECT_DIR$/Java_Technical_Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Queues/Queues.iml" filepath="$PROJECT_DIR$/Collections/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Sets/Sets.iml" filepath="$PROJECT_DIR$/Collections/Sets/Sets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Collections/Stacks/Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Trees/Trees.iml" filepath="$PROJECT_DIR$/Collections/Trees/Trees.iml" />
     </modules>
   </component>
 </project>

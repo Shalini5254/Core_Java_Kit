@@ -1,0 +1,5 @@
+public class StackOperations {
+    public static void main(String[] args){
+
+    }
+}
