@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day_1_Basics/Day_1_Basics.iml" filepath="$PROJECT_DIR$/Day_1_Basics/Day_1_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_2_Loops/Day_2_Loops.iml" filepath="$PROJECT_DIR$/Day_2_Loops/Day_2_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_3_OOPS/Day_3_OOPS.iml" filepath="$PROJECT_DIR$/Day_3_OOPS/Day_3_OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_4_Arrays_Strings/Day_4_Arrays_Strings.iml" filepath="$PROJECT_DIR$/Day_4_Arrays_Strings/Day_4_Arrays_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_5_6_Sorting/Day_5_6_Sorting.iml" filepath="$PROJECT_DIR$/Day_5_6_Sorting/Day_5_6_Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_7_Collections/Day_7_Collections.iml" filepath="$PROJECT_DIR$/Day_7_Collections/Day_7_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Technical_Training.iml" filepath="$PROJECT_DIR$/Java_Technical_Training.iml" />
+    </modules>
+  </component>
+</project>
