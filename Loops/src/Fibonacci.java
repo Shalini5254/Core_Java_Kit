@@ -1,4 +1,6 @@
 import java.util.*;
+
+// every number is the sum of previous two numbers
 public class Fibonacci {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
