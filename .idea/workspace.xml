@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d95c3ad-3383-4651-8553-987905cb2e4d" name="Changes" comment="Update commit">
-      <change afterPath="$PROJECT_DIR$/Collections/Recursion/Recursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/Recursion/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/Recursion/src/MaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/Recursion/src/MinimalCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/Recursion/src/PowerOf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/Recursion/src/SortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/Recursion/src/SumOfN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/Stacks/src/StackArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/Trees/src/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/Trees/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/Trees/src/Traversals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Queues/src/QueueBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Queues/src/ReverseOfQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loops/src/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loops/src/Fibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,94 +40,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AlphabetDigitSpecial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayListBasics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearchTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharFrequency.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Child.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructorThis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountAphabetsDigitSpecial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountVCDS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ElectricityBill.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNonRepeat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrequencyCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GcdLcmHcf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GradeSystem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashSetDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InOrder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Kadane.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KthLargest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestAmong3No.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListComparison.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxMin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSortedArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodOverloading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveZeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PowerOf2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PreOrder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Puppy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pyramid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReversePalindromCheckOfNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotatedSearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SBI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortColors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortObjects.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticKeyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumCountOfDigit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfN.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swapping.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Traversals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Rushi vardhan reddy/IdeaProjects/Java_Technical_Training/Collections/Recursion/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlphabetDigitSpecial.executor": "Run",
+    "Application.Anagram.executor": "Run",
+    "Application.Armstrong.executor": "Run",
+    "Application.ArrayListBasics.executor": "Run",
+    "Application.BankTest.executor": "Run",
+    "Application.BinarySearchTree.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Car.executor": "Run",
+    "Application.CharFrequency.executor": "Run",
+    "Application.Child.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.ConstructorThis.executor": "Run",
+    "Application.CountAphabetsDigitSpecial.executor": "Run",
+    "Application.CountVCDS.executor": "Run",
+    "Application.ElectricityBill.executor": "Run",
+    "Application.Encapsulation.executor": "Run",
+    "Application.EvenOdd.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FirstNonRepeat.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.FrequencyCount.executor": "Run",
+    "Application.GcdLcmHcf.executor": "Run",
+    "Application.GradeSystem.executor": "Run",
+    "Application.HashSetDemo.executor": "Run",
+    "Application.InOrder.executor": "Run",
+    "Application.Kadane.executor": "Run",
+    "Application.KthLargest.executor": "Run",
+    "Application.LargestAmong3No.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.ListComparison.executor": "Run",
+    "Application.MaxElement.executor": "Run",
+    "Application.MaxMin.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MergeSortedArrays.executor": "Run",
+    "Application.MethodOverloading.executor": "Run",
+    "Application.MoveZeros.executor": "Run",
+    "Application.PowerOf2.executor": "Run",
+    "Application.PreOrder.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.PrimeRange.executor": "Run",
+    "Application.Puppy.executor": "Run",
+    "Application.Pyramid.executor": "Run",
+    "Application.QueueBasic.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseOfQueue.executor": "Run",
+    "Application.ReversePalindromCheckOfNum.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.RotatedSearch.executor": "Run",
+    "Application.SBI.executor": "Run",
+    "Application.SearchDemo.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
+    "Application.SortColors.executor": "Run",
+    "Application.SortObjects.executor": "Run",
+    "Application.SortedArray.executor": "Run",
+    "Application.StaticKeyword.executor": "Run",
+    "Application.StringReverse.executor": "Run",
+    "Application.StudentTest.executor": "Run",
+    "Application.SumCountOfDigit.executor": "Run",
+    "Application.SumOfN.executor": "Run",
+    "Application.Swapping.executor": "Run",
+    "Application.Traversals.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Rushi vardhan reddy/IdeaProjects/Java_Technical_Training/Collections/Recursion/src/Main.java",
+    "settings.editor.selected.configurable": "project.scopes",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Java" />
@@ -180,7 +170,7 @@
       <workItem from="1769490726545" duration="4024000" />
       <workItem from="1769559310985" duration="2228000" />
       <workItem from="1769575908877" duration="2664000" />
-      <workItem from="1769642543986" duration="325000" />
+      <workItem from="1769642543986" duration="3232000" />
     </task>
     <task id="LOCAL-00001" summary="Update commit">
       <option name="closed" value="true" />
